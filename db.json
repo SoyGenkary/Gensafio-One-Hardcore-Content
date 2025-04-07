@@ -947,6 +947,18 @@
       "description": "",
       "dependencies": [],
       "uploadDate": "2025-04-07T07:32:26.396Z"
+    },
+    {
+      "id": 1744065282625.4082,
+      "name": "día-2.json",
+      "title": "Día 2",
+      "size": 168,
+      "type": "application/json",
+      "category": "difficulty-changes",
+      "path": "Archivos/difficulty-changes/día-2.json",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/difficulty-changes/día-2.json",
+      "uploadDate": "2025-04-07T22:34:42.626Z",
+      "itemCount": 2
     }
   ],
   "updates": [],
@@ -1913,5 +1925,15 @@
     "blacklistedMods": [],
     "minecraftSettings": {},
     "launcherSettings": {}
-  }
+  },
+  "difficultyChanges": [
+    {
+      "title": "Día 2",
+      "changes": [
+        "Los Creepers explotan el doble de fuerte.",
+        "Las vacas explotan al morir"
+      ],
+      "createdAt": "2025-04-07T22:34:41.834Z"
+    }
+  ]
 }
