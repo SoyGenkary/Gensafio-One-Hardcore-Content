@@ -163,6 +163,33 @@
       "createdAt": "2025-04-07T03:50:37.568Z",
       "isRollback": true,
       "rollbackFromVersion": "1.0.0"
+    },
+    {
+      "id": 1743997868518,
+      "version": "1.0.0-rollback-file-bclib-3.0.14.jar-rollback",
+      "files": [
+        {
+          "id": 1743994717584.2527,
+          "name": "bclib-3.0.14.jar",
+          "size": 2312835,
+          "type": "file",
+          "category": "mods",
+          "path": "Archivos/mods/bclib-3.0.14.jar",
+          "sha": "e4b0d5f26e9c798f19df9354ab7404a1f51db668",
+          "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/bclib-3.0.14.jar",
+          "uploadDate": "2025-04-07T02:58:37.584Z"
+        }
+      ],
+      "notes": "Rollback del archivo bclib-3.0.14.jar a versión 1.0.0-rollback",
+      "mandatory": true,
+      "profileId": null,
+      "minecraftVersion": "1.20.1",
+      "type": "rollback",
+      "modpackId": "1743997045233",
+      "createdAt": "2025-04-07T03:51:08.518Z",
+      "isRollback": true,
+      "rollbackFromVersion": "1.0.0-rollback",
+      "isFileRollback": true
     }
   ],
   "profiles": [],
