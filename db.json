@@ -51,21 +51,6 @@
       "description": "",
       "dependencies": [],
       "uploadDate": "2025-04-07T02:10:30.471Z"
-    },
-    {
-      "id": 1743992519328.502,
-      "name": "instance.json",
-      "size": 1011,
-      "type": "application/json",
-      "category": "other",
-      "path": "Archivos/other/instance.json",
-      "sha": "01785854e216bb9303608914fcee8b47a38fe0a8",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/other/instance.json?token=BLGLHGQMN2NV24VKZ3XTS2LH6M3QG",
-      "modpackId": null,
-      "profileId": null,
-      "description": "",
-      "dependencies": [],
-      "uploadDate": "2025-04-07T02:21:59.328Z"
     }
   ],
   "updates": [],
