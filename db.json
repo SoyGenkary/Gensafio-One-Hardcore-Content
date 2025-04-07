@@ -58,7 +58,15 @@
     }
   ],
   "updates": [],
-  "profiles": [],
+  "profiles": [
+    {
+      "id": 1743996167473,
+      "name": "Cobre",
+      "description": "",
+      "mods": [],
+      "settings": {}
+    }
+  ],
   "minecraftVersions": [],
   "modpacks": [],
   "settings": {
