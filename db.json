@@ -109,6 +109,37 @@
       "type": "feature",
       "modpackId": "1743997045233",
       "createdAt": "2025-04-07T04:44:31.269Z"
+    },
+    {
+      "id": 1744001079372,
+      "version": "1.0.0-mod-file-BetterF3-7.0.2-Fabric-1.20.1.jar-rollback",
+      "files": [
+        {
+          "id": 1744000761493.5154,
+          "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+          "size": 1782676,
+          "type": "application/octet-stream",
+          "category": "mods",
+          "path": "Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+          "sha": "082991c5dd7b7c29527cc54371a65d07f2213dbb",
+          "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+          "modpackId": "1743997045233",
+          "profileId": null,
+          "description": "Mejor interfaz y más información en el F3.",
+          "dependencies": [],
+          "uploadDate": "2025-04-07T04:39:21.493Z"
+        }
+      ],
+      "notes": "Rollback del archivo BetterF3-7.0.2-Fabric-1.20.1.jar a versión 1.0.0-mod",
+      "mandatory": true,
+      "profileId": "1744000945629",
+      "minecraftVersion": "1.20.1",
+      "type": "rollback",
+      "modpackId": "1743997045233",
+      "createdAt": "2025-04-07T04:44:39.372Z",
+      "isRollback": true,
+      "rollbackFromVersion": "1.0.0-mod",
+      "isFileRollback": true
     }
   ],
   "profiles": [
