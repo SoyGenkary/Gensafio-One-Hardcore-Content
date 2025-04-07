@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "no_se_verifica"
+    }
+  ],
+  "files": [],
+  "updates": [],
+  "profiles": [],
+  "minecraftVersions": [],
+  "modpacks": [],
+  "settings": {
+    "defaultProfile": null,
+    "requiredMods": [],
+    "blacklistedMods": [],
+    "minecraftSettings": {},
+    "launcherSettings": {}
+  }
+}
