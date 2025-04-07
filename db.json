@@ -24,17 +24,6 @@
       "retries": 0
     },
     {
-      "id": 1743994717584.1304,
-      "name": "animatica-0.6+1.20.jar",
-      "size": 69810,
-      "type": "file",
-      "category": "mods",
-      "path": "Archivos/mods/animatica-0.6+1.20.jar",
-      "sha": "6c93fd16848edbab0a6b8bc440ddb937f09594c0",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/animatica-0.6+1.20.jar",
-      "uploadDate": "2025-04-07T02:58:37.584Z"
-    },
-    {
       "id": 1743994717584.2527,
       "name": "bclib-3.0.14.jar",
       "size": 2312835,
