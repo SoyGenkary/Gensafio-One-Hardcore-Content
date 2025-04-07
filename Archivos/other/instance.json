@@ -1,0 +1,40 @@
+{
+  "name": "Fabulously Optimized-5.4.1",
+  "resolution": {
+    "width": 800,
+    "height": 400,
+    "fullscreen": false
+  },
+  "url": "",
+  "icon": "https://cdn.modrinth.com/data/1KVo5zza/9f1ded4949c2a9db5ca382d3bcc912c7245486b4_96.webp",
+  "runtime": {
+    "minecraft": "1.20.1",
+    "forge": "",
+    "liteloader": "",
+    "fabricLoader": "0.16.10",
+    "yarn": "",
+    "optifine": "",
+    "quiltLoader": "",
+    "neoForged": "",
+    "labyMod": ""
+  },
+  "java": "",
+  "version": "1.20.1-fabric0.16.10",
+  "server": null,
+  "author": "",
+  "description": "Improve your graphics and performance with this simple modpack.",
+  "lastAccessDate": 1743974429535,
+  "creationDate": 1742351850004,
+  "modpackVersion": "5.4.1",
+  "fileApi": "",
+  "tags": [],
+  "disableAuthlibInjector": false,
+  "upstream": {
+    "type": "modrinth-modpack",
+    "projectId": "1KVo5zza",
+    "versionId": "2ZbcYfCj",
+    "sha1": "3be3b9159e8d5fc1d4fc48530d20758a3600087d"
+  },
+  "lastPlayedDate": 1743295380666,
+  "playtime": 7166681
+}
