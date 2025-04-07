@@ -39,6 +39,22 @@
       "sha": "aea6a31582c2bf03c65761cb43673323a03ef65d",
       "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/bettermounthud-1.2.2.jar",
       "uploadDate": "2025-04-07T02:58:37.584Z"
+    },
+    {
+      "id": 1743994903329.1829,
+      "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "size": 1782676,
+      "type": "application/octet-stream",
+      "category": "mods",
+      "path": "Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "sha": "082991c5dd7b7c29527cc54371a65d07f2213dbb",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "modpackId": null,
+      "profileId": null,
+      "description": "",
+      "dependencies": [],
+      "uploadDate": "2025-04-07T03:01:43.329Z",
+      "retries": 0
     }
   ],
   "updates": [],
