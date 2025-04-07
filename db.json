@@ -6,23 +6,7 @@
       "password": "no_se_verifica"
     }
   ],
-  "files": [
-    {
-      "id": 1743991826750.4143,
-      "name": "Mod Menu Helper.zip",
-      "size": 43188,
-      "type": "application/x-zip-compressed",
-      "category": "resourcepacks",
-      "path": "Archivos/resourcepacks/Mod Menu Helper.zip",
-      "sha": "b412cf4a3fe679e621776b7e09942580d96e7e1b",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/resourcepacks/Mod%20Menu%20Helper.zip?token=BLGLHGXTK56FFBD3U5RWDHTH6M2E4",
-      "modpackId": null,
-      "profileId": null,
-      "description": "",
-      "dependencies": [],
-      "uploadDate": "2025-04-07T02:10:26.750Z"
-    }
-  ],
+  "files": [],
   "updates": [],
   "profiles": [],
   "minecraftVersions": [],
