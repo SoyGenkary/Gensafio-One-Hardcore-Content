@@ -8,36 +8,6 @@
   ],
   "files": [
     {
-      "id": 1743991632814.4727,
-      "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "size": 1782676,
-      "type": "application/octet-stream",
-      "category": "mods",
-      "path": "Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "sha": "082991c5dd7b7c29527cc54371a65d07f2213dbb",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar?token=BLGLHGQXT7FJWKLJ6U6GGZTH6MZYY",
-      "modpackId": null,
-      "profileId": null,
-      "description": "Better F3",
-      "dependencies": [],
-      "uploadDate": "2025-04-07T02:07:12.814Z"
-    },
-    {
-      "id": 1743991784089.4968,
-      "name": "main-menu-credits-1.1.2.jar",
-      "size": 14340,
-      "type": "application/octet-stream",
-      "category": "mods",
-      "path": "Archivos/mods/main-menu-credits-1.1.2.jar",
-      "sha": "28da9dfe4a445735c483d98461f279431a5e6724",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/main-menu-credits-1.1.2.jar?token=BLGLHGX7ZYREF675BTNAHIDH6M2CI",
-      "modpackId": null,
-      "profileId": null,
-      "description": "Creditos",
-      "dependencies": [],
-      "uploadDate": "2025-04-07T02:09:44.089Z"
-    },
-    {
       "id": 1743991823472.063,
       "name": "Chat Reporting Helper.zip",
       "size": 32592,
