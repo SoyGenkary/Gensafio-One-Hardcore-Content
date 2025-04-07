@@ -1,0 +1,12 @@
+{
+  "title": "Cambios del Día 1:",
+  "changes": [
+    "Todo daño ahora es multiplicado por 2 sin importar su origen.",
+    "Poca originalidad; ahora los botones quitan 999999 de vida.",
+    "Los bloques con gravedad al pasar por ellos te hacen levitar por 5s.",
+    "Las vacas al morir explotan como un Creeper cargado.",
+    "Cuando llueva, todos los jugadores perderán 1 corazón completo hasta que termine.",
+    "Fobia total, se reduce el daño que haces a mobs en un 20%."
+  ],
+  "createdAt": "2025-04-07T23:51:10.076Z"
+}
