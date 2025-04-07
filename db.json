@@ -6,19 +6,7 @@
       "password": "no_se_verifica"
     }
   ],
-  "files": [
-    {
-      "id": 1743994717584.5483,
-      "name": "bettermounthud-1.2.2.jar",
-      "size": 21587,
-      "type": "file",
-      "category": "mods",
-      "path": "Archivos/mods/bettermounthud-1.2.2.jar",
-      "sha": "aea6a31582c2bf03c65761cb43673323a03ef65d",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/bettermounthud-1.2.2.jar",
-      "uploadDate": "2025-04-07T02:58:37.584Z"
-    }
-  ],
+  "files": [],
   "updates": [],
   "profiles": [],
   "minecraftVersions": [],
