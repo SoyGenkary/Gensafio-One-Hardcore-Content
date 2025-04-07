@@ -61,10 +61,11 @@
   "profiles": [
     {
       "id": 1743996167473,
-      "name": "Cobre2",
+      "name": "Cobre23",
       "description": "",
       "mods": [],
-      "settings": {}
+      "settings": {},
+      "updatedAt": "2025-04-07T03:36:27.426Z"
     }
   ],
   "minecraftVersions": [],
