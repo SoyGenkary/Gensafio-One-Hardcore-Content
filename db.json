@@ -39,7 +39,15 @@
     }
   ],
   "updates": [],
-  "profiles": [],
+  "profiles": [
+    {
+      "id": 1744000945629,
+      "name": "Optimizado",
+      "description": "Perfil para PC's de bajos recursos.",
+      "mods": [],
+      "settings": {}
+    }
+  ],
   "minecraftVersions": [],
   "modpacks": [
     {
