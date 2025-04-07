@@ -21,21 +21,6 @@
       "description": "",
       "dependencies": [],
       "uploadDate": "2025-04-07T02:10:26.750Z"
-    },
-    {
-      "id": 1743991830471.7947,
-      "name": "SodiumTranslations.zip",
-      "size": 164722,
-      "type": "application/x-zip-compressed",
-      "category": "resourcepacks",
-      "path": "Archivos/resourcepacks/SodiumTranslations.zip",
-      "sha": "290603a66eb38edd9a291addfa158fc93af6bd49",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/resourcepacks/SodiumTranslations.zip?token=BLGLHGSSFH5WWTPKPABUW4TH6M2FE",
-      "modpackId": null,
-      "profileId": null,
-      "description": "",
-      "dependencies": [],
-      "uploadDate": "2025-04-07T02:10:30.471Z"
     }
   ],
   "updates": [],
