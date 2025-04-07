@@ -68,7 +68,16 @@
     }
   ],
   "minecraftVersions": [],
-  "modpacks": [],
+  "modpacks": [
+    {
+      "id": 1743996194976,
+      "name": "Gensafio: One Hardcore",
+      "version": "1.0.0",
+      "description": "",
+      "mods": [],
+      "requiredMods": []
+    }
+  ],
   "settings": {
     "defaultProfile": null,
     "requiredMods": [],
