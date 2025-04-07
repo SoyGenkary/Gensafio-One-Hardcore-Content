@@ -960,6 +960,18 @@
       "uploadDate": "2025-04-07T22:34:42.626Z",
       "itemCount": 3,
       "updatedAt": "2025-04-07T22:39:01.284Z"
+    },
+    {
+      "id": 1744065584327.2603,
+      "name": "día-1.json",
+      "title": "Día 1",
+      "size": 399,
+      "type": "application/json",
+      "category": "difficulty-changes",
+      "path": "Archivos/difficulty-changes/día-1.json",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/difficulty-changes/día-1.json",
+      "uploadDate": "2025-04-07T22:39:44.327Z",
+      "itemCount": 9
     }
   ],
   "updates": [],
@@ -1937,6 +1949,21 @@
       ],
       "createdAt": "2025-04-07T22:34:41.834Z",
       "updatedAt": "2025-04-07T22:39:00.083Z"
+    },
+    {
+      "title": "Día 1",
+      "changes": [
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy...",
+        "Espera lo cambios de hoy..."
+      ],
+      "createdAt": "2025-04-07T22:39:43.392Z"
     }
   ]
 }
