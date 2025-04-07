@@ -8,22 +8,6 @@
   ],
   "files": [
     {
-      "id": 1743994903329.1829,
-      "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "size": 1782676,
-      "type": "application/octet-stream",
-      "category": "mods",
-      "path": "Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "sha": "082991c5dd7b7c29527cc54371a65d07f2213dbb",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "modpackId": null,
-      "profileId": null,
-      "description": "",
-      "dependencies": [],
-      "uploadDate": "2025-04-07T03:01:43.329Z",
-      "retries": 0
-    },
-    {
       "id": 1743995660898.6357,
       "name": "better-nether-9.0.10.jar",
       "size": 22981698,
