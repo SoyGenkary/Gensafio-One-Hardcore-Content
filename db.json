@@ -6,21 +6,7 @@
       "password": "no_se_verifica"
     }
   ],
-  "files": [
-    {
-      "id": 1743989484443.5793,
-      "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "size": 1782676,
-      "type": "application/octet-stream",
-      "category": "mods",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/files/BetterF3-7.0.2-Fabric-1.20.1.jar?token=BLGLHGUAXLZFIDZZL4KXX63H6MVSQ",
-      "sha": "082991c5dd7b7c29527cc54371a65d07f2213dbb",
-      "modpackId": null,
-      "profileId": null,
-      "description": "",
-      "dependencies": []
-    }
-  ],
+  "files": [],
   "updates": [],
   "profiles": [],
   "minecraftVersions": [],
