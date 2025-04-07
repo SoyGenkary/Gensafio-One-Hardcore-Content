@@ -21,6 +21,21 @@
       "description": "Better F3",
       "dependencies": [],
       "uploadDate": "2025-04-07T02:07:12.814Z"
+    },
+    {
+      "id": 1743991784089.4968,
+      "name": "main-menu-credits-1.1.2.jar",
+      "size": 14340,
+      "type": "application/octet-stream",
+      "category": "mods",
+      "path": "Archivos/mods/main-menu-credits-1.1.2.jar",
+      "sha": "28da9dfe4a445735c483d98461f279431a5e6724",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/main-menu-credits-1.1.2.jar?token=BLGLHGX7ZYREF675BTNAHIDH6M2CI",
+      "modpackId": null,
+      "profileId": null,
+      "description": "Creditos",
+      "dependencies": [],
+      "uploadDate": "2025-04-07T02:09:44.089Z"
     }
   ],
   "updates": [],
