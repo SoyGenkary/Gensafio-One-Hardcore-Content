@@ -8,6 +8,20 @@
   ],
   "files": [
     {
+      "id": 1744065584327.2603,
+      "name": "día-1.json",
+      "title": "Día 1",
+      "size": 452,
+      "type": "application/json",
+      "category": "difficulty-changes",
+      "path": "Archivos/difficulty-changes/día-1.json",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/difficulty-changes/día-1.json",
+      "uploadDate": "2025-04-07T22:39:44.327Z",
+      "itemCount": 9,
+      "updatedAt": "2025-04-07T22:44:13.762Z",
+      "sha": "94d7553bcebc9885557bee36bb8df8b0a26cc86c"
+    },
+    {
       "id": 1744009809418.9663,
       "name": "AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
       "size": 194905,
@@ -947,19 +961,6 @@
       "description": "",
       "dependencies": [],
       "uploadDate": "2025-04-07T07:32:26.396Z"
-    },
-    {
-      "id": 1744065584327.2603,
-      "name": "día-1.json",
-      "title": "Día 1",
-      "size": 451,
-      "type": "application/json",
-      "category": "difficulty-changes",
-      "path": "Archivos/difficulty-changes/día-1.json",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/difficulty-changes/día-1.json",
-      "uploadDate": "2025-04-07T22:39:44.327Z",
-      "itemCount": 9,
-      "updatedAt": "2025-04-07T22:44:13.762Z"
     }
   ],
   "updates": [],
