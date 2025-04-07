@@ -6,7 +6,85 @@
       "password": "no_se_verifica"
     }
   ],
-  "files": [],
+  "files": [
+    {
+      "id": 1743994717584.4902,
+      "name": "AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+      "size": 194905,
+      "type": "file",
+      "category": "mods",
+      "path": "Archivos/mods/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+      "sha": "02c1255044d3ab67ace72aa0e733d7759f80b761",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+      "uploadDate": "2025-04-07T02:58:37.584Z"
+    },
+    {
+      "id": 1743994717584.9922,
+      "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "size": 1782676,
+      "type": "file",
+      "category": "mods",
+      "path": "Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "sha": "082991c5dd7b7c29527cc54371a65d07f2213dbb",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "uploadDate": "2025-04-07T02:58:37.584Z"
+    },
+    {
+      "id": 1743994717584.1326,
+      "name": "advancementinfo-1.20-fabric0.83.0-1.4.jar",
+      "size": 43895,
+      "type": "file",
+      "category": "mods",
+      "path": "Archivos/mods/advancementinfo-1.20-fabric0.83.0-1.4.jar",
+      "sha": "8b6bb27a31d9d4774ac66b6c18397566a7cddc6e",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/advancementinfo-1.20-fabric0.83.0-1.4.jar",
+      "uploadDate": "2025-04-07T02:58:37.584Z"
+    },
+    {
+      "id": 1743994717584.1304,
+      "name": "animatica-0.6+1.20.jar",
+      "size": 69810,
+      "type": "file",
+      "category": "mods",
+      "path": "Archivos/mods/animatica-0.6+1.20.jar",
+      "sha": "6c93fd16848edbab0a6b8bc440ddb937f09594c0",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/animatica-0.6+1.20.jar",
+      "uploadDate": "2025-04-07T02:58:37.584Z"
+    },
+    {
+      "id": 1743994717584.2527,
+      "name": "bclib-3.0.14.jar",
+      "size": 2312835,
+      "type": "file",
+      "category": "mods",
+      "path": "Archivos/mods/bclib-3.0.14.jar",
+      "sha": "e4b0d5f26e9c798f19df9354ab7404a1f51db668",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/bclib-3.0.14.jar",
+      "uploadDate": "2025-04-07T02:58:37.584Z"
+    },
+    {
+      "id": 1743994717584.0044,
+      "name": "better-nether-9.0.10.jar",
+      "size": 22981698,
+      "type": "file",
+      "category": "mods",
+      "path": "Archivos/mods/better-nether-9.0.10.jar",
+      "sha": "5b5a5e16faca93433e3b774bbb43e68aaba6e5b6",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/better-nether-9.0.10.jar",
+      "uploadDate": "2025-04-07T02:58:37.584Z"
+    },
+    {
+      "id": 1743994717584.5483,
+      "name": "bettermounthud-1.2.2.jar",
+      "size": 21587,
+      "type": "file",
+      "category": "mods",
+      "path": "Archivos/mods/bettermounthud-1.2.2.jar",
+      "sha": "aea6a31582c2bf03c65761cb43673323a03ef65d",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/bettermounthud-1.2.2.jar",
+      "uploadDate": "2025-04-07T02:58:37.584Z"
+    }
+  ],
   "updates": [],
   "profiles": [],
   "minecraftVersions": [],
