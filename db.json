@@ -36,6 +36,21 @@
       "description": "",
       "dependencies": [],
       "uploadDate": "2025-04-07T06:58:34.479Z"
+    },
+    {
+      "id": 1744008916204.4192,
+      "name": "fabric-api-0.92.4+1.20.1.jar",
+      "size": 2107840,
+      "type": "application/octet-stream",
+      "category": "mods",
+      "path": "Archivos/mods/fabric-api-0.92.4+1.20.1.jar",
+      "sha": "c5e4ee73171e8416fd939fe2149c53052fc795e7",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/fabric-api-0.92.4+1.20.1.jar",
+      "modpackId": null,
+      "profileId": null,
+      "description": "",
+      "dependencies": [],
+      "uploadDate": "2025-04-07T06:55:16.204Z"
     }
   ],
   "updates": [
