@@ -34,6 +34,18 @@
       "uploadDate": "2025-04-07T23:51:17.216Z",
       "itemCount": 6,
       "updatedAt": "2025-04-07T23:51:44.597Z"
+    },
+    {
+      "id": 1744070156076.5244,
+      "name": "día-2.json",
+      "title": "Día 2",
+      "size": 118,
+      "type": "application/json",
+      "category": "difficulty-changes",
+      "path": "Archivos/difficulty-changes/día-2.json",
+      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/difficulty-changes/día-2.json",
+      "uploadDate": "2025-04-07T23:55:56.076Z",
+      "itemCount": 2
     }
   ],
   "updates": [],
@@ -53,6 +65,14 @@
       ],
       "createdAt": "2025-04-07T23:51:10.076Z",
       "updatedAt": "2025-04-07T23:51:42.700Z"
+    },
+    {
+      "title": "Día 2",
+      "changes": [
+        "asdasdasda",
+        "asdasdas"
+      ],
+      "createdAt": "2025-04-07T23:55:54.531Z"
     }
   ],
   "settings": {
