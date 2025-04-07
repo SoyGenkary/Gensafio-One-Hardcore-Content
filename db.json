@@ -67,7 +67,12 @@
       "version": "1.0.0",
       "description": "Modpack Oficial del Gensafio 1",
       "mods": [],
-      "requiredMods": []
+      "requiredMods": [],
+      "minecraftVersion": "1.20.1",
+      "files": [],
+      "author": "Genkary",
+      "isPublic": true,
+      "updatedAt": "2025-04-07T03:37:49.581Z"
     }
   ],
   "settings": {
