@@ -24,17 +24,6 @@
       "retries": 0
     },
     {
-      "id": 1743994717584.2527,
-      "name": "bclib-3.0.14.jar",
-      "size": 2312835,
-      "type": "file",
-      "category": "mods",
-      "path": "Archivos/mods/bclib-3.0.14.jar",
-      "sha": "e4b0d5f26e9c798f19df9354ab7404a1f51db668",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/mods/bclib-3.0.14.jar",
-      "uploadDate": "2025-04-07T02:58:37.584Z"
-    },
-    {
       "id": 1743995660898.6357,
       "name": "better-nether-9.0.10.jar",
       "size": 22981698,
