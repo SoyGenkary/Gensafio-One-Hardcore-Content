@@ -6,20 +6,7 @@
       "password": "no_se_verifica"
     }
   ],
-  "files": [
-    {
-      "id": 1743990968512.5505,
-      "name": "BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "size": 1782676,
-      "type": "application/octet-stream",
-      "tags": [],
-      "category": "otros",
-      "path": "otros/BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "sha": "082991c5dd7b7c29527cc54371a65d07f2213dbb",
-      "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/otros/BetterF3-7.0.2-Fabric-1.20.1.jar?token=BLGLHGRWV4I4BBEWD5HP4UTH6MYPI",
-      "uploadDate": "2025-04-07T01:56:08.512Z"
-    }
-  ],
+  "files": [],
   "updates": [],
   "profiles": [],
   "minecraftVersions": [],
