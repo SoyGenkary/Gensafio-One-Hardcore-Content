@@ -88,11 +88,17 @@
       "id": 1744171254824,
       "name": "netherite",
       "description": "Para computadores de altos requerimientos.",
-      "modpackId": null,
-      "modpack": null,
+      "modpackId": "1744171295672",
+      "modpack": {
+        "id": 1744171295672,
+        "name": "Gensafio: One Hardcore",
+        "version": "1.0.0",
+        "description": "Modpack del Gensafio Oficial.",
+        "files": []
+      },
       "settings": {},
       "createdAt": "2025-04-09T04:00:54.824Z",
-      "updatedAt": "2025-04-09T04:00:54.824Z"
+      "updatedAt": "2025-04-09T04:04:12.260Z"
     }
   ],
   "minecraftVersions": [],
