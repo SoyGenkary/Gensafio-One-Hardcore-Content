@@ -11,14 +11,14 @@
       "id": 1744069877216.2273,
       "name": "cambios-del-día-1:.json",
       "title": "Cambios del Día 1:",
-      "size": 572,
+      "size": 534,
       "type": "application/json",
       "category": "difficulty-changes",
       "path": "Archivos/difficulty-changes/cambios-del-día-1:.json",
       "url": "https://raw.githubusercontent.com/SoyGenkary/Gensafio-One-Hardcore-Content/main/Archivos/difficulty-changes/cambios-del-día-1:.json",
       "uploadDate": "2025-04-07T23:51:17.216Z",
       "itemCount": 6,
-      "updatedAt": "2025-04-07T23:59:18.030Z",
+      "updatedAt": "2025-04-09T03:40:07.185Z",
       "sha": "bd0f7947bc525fb66c4561ab1c01d396490796c5"
     },
     {
@@ -59,14 +59,14 @@
       "title": "Cambios del Día 1:",
       "changes": [
         "Todo daño ahora es multiplicado por 2 sin importar su origen.",
-        "Poca originalidad; ahora los botones quitan 999999 de vida.",
+        "Ahora los botones quitan 999999 de vida.",
         "Los bloques con gravedad al pasar por ellos te hacen levitar por 5s.",
         "Las vacas al morir explotan como un Creeper cargado.",
-        "Cuando llueva, todos los jugadores perderán 1 corazón completo hasta que termine.",
-        "Fobia total, se reduce el daño que haces a mobs en un 20%."
+        "Cuando llueva todos los jugadores perderán 1 corazón completo hasta que termine.",
+        "Se reduce el daño que haces a mobs en un 20%."
       ],
       "createdAt": "2025-04-07T23:51:10.076Z",
-      "updatedAt": "2025-04-07T23:59:16.414Z"
+      "updatedAt": "2025-04-09T03:40:03.134Z"
     },
     {
       "title": "Día 2",
