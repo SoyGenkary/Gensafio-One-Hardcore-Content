@@ -56,21 +56,33 @@
       "id": 1744171204753,
       "name": "cobre",
       "description": "Para computadores con bajos requerimientos.",
-      "modpackId": null,
-      "modpack": null,
+      "modpackId": "1744171295672",
+      "modpack": {
+        "id": 1744171295672,
+        "name": "Gensafio: One Hardcore",
+        "version": "1.0.0",
+        "description": "Modpack del Gensafio Oficial.",
+        "files": []
+      },
       "settings": {},
       "createdAt": "2025-04-09T04:00:04.753Z",
-      "updatedAt": "2025-04-09T04:00:04.753Z"
+      "updatedAt": "2025-04-09T04:01:47.890Z"
     },
     {
       "id": 1744171230104,
       "name": "oro",
       "description": "Para computadores de medios requerimientos.",
-      "modpackId": null,
-      "modpack": null,
+      "modpackId": "1744171295672",
+      "modpack": {
+        "id": 1744171295672,
+        "name": "Gensafio: One Hardcore",
+        "version": "1.0.0",
+        "description": "Modpack del Gensafio Oficial.",
+        "files": []
+      },
       "settings": {},
       "createdAt": "2025-04-09T04:00:30.104Z",
-      "updatedAt": "2025-04-09T04:00:30.104Z"
+      "updatedAt": "2025-04-09T04:01:53.792Z"
     },
     {
       "id": 1744171254824,
