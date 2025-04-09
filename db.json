@@ -61,6 +61,16 @@
       "settings": {},
       "createdAt": "2025-04-09T04:00:04.753Z",
       "updatedAt": "2025-04-09T04:00:04.753Z"
+    },
+    {
+      "id": 1744171230104,
+      "name": "oro",
+      "description": "Para computadores de medios requerimientos.",
+      "modpackId": null,
+      "modpack": null,
+      "settings": {},
+      "createdAt": "2025-04-09T04:00:30.104Z",
+      "updatedAt": "2025-04-09T04:00:30.104Z"
     }
   ],
   "minecraftVersions": [],
