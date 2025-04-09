@@ -84,7 +84,16 @@
     }
   ],
   "minecraftVersions": [],
-  "modpacks": [],
+  "modpacks": [
+    {
+      "id": 1744171295672,
+      "name": "Gensafio: One Hardcore",
+      "version": "1.0.0",
+      "description": "Modpack del Gensafio Oficial.",
+      "mods": [],
+      "requiredMods": []
+    }
+  ],
   "difficultyChanges": [
     {
       "title": "Cambios del Día 1:",
